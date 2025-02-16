@@ -1,7 +1,7 @@
-# BLLR-Classification 
+# Basket Ball Shot Classification 
+### Shoot / No Shoot
 Action Recognition Using Sensor Data with LSTM and CNN
-Below is a sample GitHub README in Markdown that explains your research and code in detail:
-
+More Actions can be added by making some changes as per requirement only shoot or no shoot was required 
 ---
 
 # Action Recognition Using Sensor Data with LSTM and CNN
